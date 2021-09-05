@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=380&section=header&text=Yoon-Seung-Min&fontSize=97&animation=fadein)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Yoon-Seung-Min&fontSize=93&animation=fadein)
 
 ### 👋 __Who Am I__  👋
 
