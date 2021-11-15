@@ -19,7 +19,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-Min&show_icons=true&theme=synthwave)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals0113">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals0113)](https://solved.ac/tmdals0113)
+
 
 <!--
 **Yoon-Min/Yoon-Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
