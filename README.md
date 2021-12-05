@@ -4,7 +4,7 @@
 
 - 😉my name is yoon-seung-min
 - 🎓Hankuk University of Foreign Studies-Computer and Electronic Systems Engineering(2018.03 ~ing)
-- 🔥I’m currently learning Web-programming, Algorithm
+- 🔥I’m currently learning Web-programming, Algorithm, 
 
 ### 🛠 __Tech Skills__ 🛠
 
