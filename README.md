@@ -2,6 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&customColorList=3&text=안드로이드%20공부중&fontAlignY=40&fontAlign=50&fontSize=30&desc=Kotlin&descAlign=50&descAlignY=70)
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/80873132/183238234-587d874f-f9ed-450b-b7f1-4ddb473b1977.svg" width =100>
+<p align="center"><img src = "https://user-images.githubusercontent.com/80873132/183239645-28e87a47-97fe-43b7-844e-17cc72757c08.png" width =100>
+
 
 
 <!--
